@@ -12,7 +12,7 @@ This discussion aims to help generate ideas for better informing the SRC student
 
 **Avenues for increasing awareness include:**
 
-* advertise the @theCAtabke as a program (in addition to advertising individual CA library themes)
+* advertise the @theCAtable as a program (in addition to advertising individual CA library themes)
     * advertisements could be via the student announcement emails list
 * put up more posters
 * ask professors to help promote the program in class&mdash;especially for shifts that relate to their course
