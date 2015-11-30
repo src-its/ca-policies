@@ -17,6 +17,7 @@ This discussion aims to help generate ideas for better informing the SRC student
 * put up more posters
     * particularly on the doors to the library, dining hall, and student union
 * ask professors to help promote the program in class&mdash;especially for shifts that relate to their course
+   - for example intro to stats help with R
 * add an announcement to the front page of the SRC portal (my.simons-rock.edu)
 * inform RDs so that they can mention @thCAtable at house meetings
 
