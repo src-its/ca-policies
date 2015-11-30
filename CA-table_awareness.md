@@ -6,10 +6,12 @@ CAs also note that while posters display specific CA Table themes may attract so
 
 This discussion aims to help generate ideas for better informing the SRC student body CA availability.
 
-Avenues for increasing awareness include:
+---
 
-* advertise the CA program rather than individual CA library shifts
-* put posters EVERYWHERE
-* get on student announces for events in emails
-* inform professors of shifts that relate to their course and ask them to let their students know
-* put it on the SRC website, moodle, my SRC, etc.
+**Avenues for increasing awareness include:**
+
+* advertise the @theCAtabke as a program (in addition to advertising individual CA library themes)
+    * advertisements could be via the student announcement emails list
+* put up more posters
+* ask professors to help promote the program in class&mdash;especially for shifts that relate to their course
+* add an alert to the SRC website (my.simons-rock.edu)
