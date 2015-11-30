@@ -4,9 +4,9 @@
 
 CAs have pointed out that the SRC student body is not very aware that Computer Assistants are available to help with technology-related issues.  Most CAs see little activity @theCAtable.
 
-CAs also note that while posters display specific CA Table themes may attract some students to engage CAs in conversation or for support, they are not effective in conveying the broader message that the CAs are a general resource that are aways available.
+CAs also note that while posters that display specific CA Table themes may attract some students to engage CAs in conversation or for support, they are not effective in conveying the broader message that the CAs are a general resource that are aways available.
 
-This discussion aims to help generate ideas for better informing the SRC student body CA availability.
+This discussion aims to help generate ideas for better informing the SRC student body of CA availability.
 
 ---
 
