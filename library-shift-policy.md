@@ -1,24 +1,18 @@
-##CA Library Shift Workflow
+## @theCAtable | Library Shift Workflow
 
-In order to sign up for a library shift, each CA must commit to implementing the following sequence of activities:
-
-The responsibility for implementing this sequence is entirely that of the CA.
+In order to sign up for a library shift, each CA must commit to implementing the following sequence of activities. The responsibility for implementing this sequence is entirely that of the CA.
 
 ### Step 1 - Schedule a Shift 
 
-CAs may sign up for Library shifts by entering your name and theme into our [shared Google Spreadsheet](https://docs.google.com/spreadsheets/d/1FewlLMx2gZrXYde-QG-gRwZ2wlV0cV4prEB3Aqq_nqI/edit#gid=1715420051).
-
-Consider fun ways to theme your shift to pique the interest of your peers. Avoid generic themes like "Intro to Linux" and try instead to specify particular points, like *"Overcoming Common Linux Installation Snags"* or *"Ways to Save Time Using the Linux Command Line"*.
+Schedule your `@theCAtable` (library) shift by entering your name and theme into our [shared library scheduling spreadsheet](https://docs.google.com/spreadsheets/d/1FewlLMx2gZrXYde-QG-gRwZ2wlV0cV4prEB3Aqq_nqI/edit#gid=1715420051). Consider fun ways to theme your shift to pique the interest of your peers. Avoid generic themes like "Intro to Linux" and try instead to specify particular points, like *"Overcoming Common Linux Installation Snags"* or *"Ways to Save Time Using the Linux Command Line"* or *"Getting to know Linux Package Panagers"*.
 
 ### Step 2 - Draft a Blurb
 
-After signing up for your theme, you'll need to write a short blurb that gives greater detail about what students could expect from attending your theme night.
-
-Since we benefit by adding a bit of HTML formatting when publishing our theme nights (elaborated below), try to include it when doing your write up. Use the following as a template:
+After signing up, you'll need to write a short blurb that gives greater detail about what students could expect from visiting your during your shift. When later publishing your theme nights (elaborated below), try including HTML formatting, such as follows:
 
 ```
-<p>
-29 Sept. 2015 <br />
+<p> <!-- The <p></p> pair signify that start and stop of paragraphs -->
+29 Sept. 2015 <br /> <!-- This <br /> element breaks a line within a paragraph -->
 <b>@ the CA Table: Become a Linux Command Line Ninja</b>
 </p>
 <p>
@@ -40,22 +34,30 @@ Location: Alumni Library
 
 ### Step 3 - Create a Poster
 
-After scheduling a shift and drafting your blurb, it's time to create a poster.
+After scheduling your shift and drafting a blurb, it's time to create a poster to help promote awareness of your themed shift.
 
 We need posters in two formats:
 
-1. `.gif` ([pronounced both /ˈdʒɪf/ **jif** or /ˈɡɪf/ **ghif**](https://en.wikipedia.org/wiki/GIF)) formatted to 1920 x 1080 pixels for publishing on our electronic bulletin boards
-2. `.PDF` format for printing
+1. a `.gif` ([pronounced both /ˈdʒɪf/ **jif** or /ˈɡɪf/ **ghif**](https://en.wikipedia.org/wiki/GIF)) image of 1920 x 1080 pixels, which we use for publishing to our electronic bulletin boards (such as in the library
+2. a `.PDF` file for printing on 8.5" x 11" paper to put on campus bulletin boards
 
-It is acceptable to use any form of image manipulation software to create your posters, but as an exercise in working with computer languages and formatting syntaxes, please try to create a poster using [LaTeX](https://www.latex-project.org/).  **NOTE:** @jfoos has been [working hard to create a script that will auto-generate a poster]()https://github.com/src-its/LaTeX/blob/master/create_poster.py using the [Beamer document class](https://en.wikipedia.org/wiki/Beamer_(LaTeX)). All CAs are encouraged to try her script and to build on her work].
+It is acceptable to use any form of image manipulation software to create your posters, but as an exercise in working with computer languages and formatting syntaxes, ITS encourages CAs to try creating poster using [LaTeX](https://www.latex-project.org/).
+
+**NOTE:** @jfoos has been [working hard to create a script that will auto-generate a poster]()https://github.com/src-its/LaTeX/blob/master/create_poster.py using the [Beamer document class](https://en.wikipedia.org/wiki/Beamer_(LaTeX)). All CAs are encouraged to try her script and to build on her work].
 
 
 ### Step 4 - Submit Your Event!
 
-Once you have your event scheduled and elaborated, and with your 
+Once you have your `@theCAtable` event [scheduled](https://docs.google.com/spreadsheets/d/1FewlLMx2gZrXYde-QG-gRwZ2wlV0cV4prEB3Aqq_nqI/edit#gid=1715420051), elaborated as a blurb, and with your posters created and ready for publication, it's time to submit your event.
 
+Avenues for publishing your event are as follows:
+
+1.  Submit your event to the SRC Events Calendar
+    * Submissions to the [SRC Events Calendar](http://simons-rock.edu/events/index.php?com=submit) are [published on-line](http://simons-rock.edu/events/) and also published via email to the SR Activities Bulletin
+1.  Submit your event to the student announce mailing list
+    *
 
 ---
 
-**Related Discussions:** [Promoting Awareness of CA Presence at SRC](https://github.com/src-its/help-content/blob/master/markdown/CA-table_awareness.md)
+**Related Discussion:** [Promoting Awareness of CA Presence at SRC](https://github.com/src-its/help-content/blob/master/markdown/CA-table_awareness.md)
 
