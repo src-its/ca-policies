@@ -1,6 +1,6 @@
 ## Promoting Awareness of CA Presence at SRC.
 
-**Context:**
+### Context
 
 CAs have pointed out that the SRC student body is not very aware that Computer Assistants are available to help with technology-related issues.  Most CAs see little activity at the CA table in the Alumni Library [for which we've created the handle `@theCAtable`].
 
@@ -8,9 +8,9 @@ CAs also note that while posters that display specific CA Table themes may attra
 
 This discussion aims to help generate ideas for better informing the SRC student body of CA availability.
 
----
 
-**Avenues for Increasing Awareness of CA Availability:**
+
+### Avenues for Increasing Awareness of CA Availability
 
 Suggestions for raising awareness of SRC CA Availability for after-hours support in the Alumni Library include:
 
