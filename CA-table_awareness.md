@@ -9,7 +9,6 @@ CAs also note that while posters that display specific CA Table themes may attra
 This discussion aims to help generate ideas for better informing the SRC student body of CA availability.
 
 
-
 ### Avenues for Increasing Awareness of CA Availability
 
 Suggestions for raising awareness of SRC CA Availability for after-hours support in the Alumni Library include:
@@ -20,7 +19,7 @@ Suggestions for raising awareness of SRC CA Availability for after-hours support
     * make posters that advertise the program as a whole
         * consider posting on doors to the library, on the bulletin board in the dining hall, and at the Student Union
 * ask professors to help promote the program in class&mdash;especially for shifts that relate to their course (for example, but advertising sessions about learning R during 'Intro to Stats') 
-   - note that some CAs have proposed to create alist of courses that use special software or programs and to direct announcements for relevant tutorials to those classes / professors
+   - note that some CAs have proposed to create a list of courses that use special software or programs and to direct announcements for relevant tutorials to those classes / professors
 * add an announcement to the front page of the SRC portal (my.simons-rock.edu)
 * ask RDs to help raise awareness of `@thCAtable` during house meetings
 * explore the possibility of getting ACE credits for attending (or hosting) a library shift
