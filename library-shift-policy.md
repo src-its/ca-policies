@@ -8,7 +8,7 @@ Schedule your `@theCAtable` (library) shift by entering your name and theme into
 
 ### Step 2 - Draft a Blurb
 
-After signing up, you'll need to write a short blurb that gives greater detail about what students could expect from visiting your during your shift. When later publishing your theme nights (elaborated below), try including HTML formatting, such as follows:
+After signing up, you'll need to [write a short blurb](https://docs.google.com/document/d/1SPVvAdG80uYmMkC6F6FZyUjLHHarjOuaQ57Rq8Mqy58/edit) that gives greater detail about what students could expect from visiting your during your shift. When later publishing your theme nights ([elaborated below](https://github.com/src-its/ca-policies/blob/master/library-shift-policy.md#step-4---submit-your-event)), try including HTML formatting, such as follows:
 
 ```
 <p> <!-- The <p></p> pair signify that start and stop of paragraphs -->
@@ -34,7 +34,7 @@ Location: Alumni Library
 
 ### Step 3 - Create a Poster
 
-After scheduling your shift and drafting a blurb, it's time to create a poster to help promote awareness of your themed shift.
+After [scheduling your shift](https://docs.google.com/spreadsheets/d/1FewlLMx2gZrXYde-QG-gRwZ2wlV0cV4prEB3Aqq_nqI/edit#gid=1715420051&vpid=A1) and [drafting a blurb](https://docs.google.com/document/d/1SPVvAdG80uYmMkC6F6FZyUjLHHarjOuaQ57Rq8Mqy58/edit), it's time to create a poster to help promote awareness of your themed shift.
 
 We need posters in two formats:
 
