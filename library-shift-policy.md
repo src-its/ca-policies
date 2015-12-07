@@ -52,10 +52,12 @@ Once you have your `@theCAtable` event [scheduled](https://docs.google.com/sprea
 
 Avenues for publishing your event are as follows:
 
+1. Submit your event to the Library
 1.  Submit your event to the SRC Events Calendar
-    * Submissions to the [SRC Events Calendar](http://simons-rock.edu/events/index.php?com=submit) are [published on-line](http://simons-rock.edu/events/) and also published via email to the SR Activities Bulletin
-1.  Submit your event to the student announce mailing list
-    *
+   * Submissions to the [SRC Events Calendar](http://simons-rock.edu/events/index.php?com=submit) are [published on-line](http://simons-rock.edu/events/) and also published via email to the SR Activities Bulletin; this publication channel does not accommodate attachments
+1.  Submit your event to the Student Announce mailing list
+   * SRC CAs can announce events directly to your peers by submitting your notifications our 'student announce' mailing list" `student@simons-rock.edu`; when using this publication channel to announce your event, please attach either the `.gif` or `.PDF` version of your poster
+
 
 ---
 
