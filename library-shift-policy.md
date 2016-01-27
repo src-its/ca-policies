@@ -1,4 +1,16 @@
-## @theCAtable | Library Shift Workflow
+### @theCAtable | Library Shift Workflow
+
+## Spring 2016 Library Shifts
+
+1. Check all printers to ensure that each has sufficient toner and paper.  Replenish supplies as appropriate.
+2. Check all Library workstations to ensurer that they are working properly.
+3. Set up a work station, including by positing a sign stating the the CA table is open.
+4. If no one comes in to ask for help, work on your [ca-web](https://github.com/src-its/ca-web) assignments.
+5. Prior to the end of your shift, push up all work to GitHub.
+6. Prior to the end of your shift, write up a report of your activities, including links to new or refined materials.
+
+
+## Fall 2015 Library Shift Sign-Up Policy [ARCHIVAL]
 
 In order to sign up for a library shift, each CA must commit to implementing the following sequence of activities. The responsibility for implementing this sequence is entirely that of the CA.
 
