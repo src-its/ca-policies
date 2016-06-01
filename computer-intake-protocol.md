@@ -16,7 +16,7 @@ When creating a ticket, be sure to mind the following:
   + More explicit and articulate description of the issues. What are the symptoms (slow computer, will not boot, a particular error message)?  When did the problems start? What was the user doing when the problem started.
 4. After entering all pertinent information in RT, press ‘Create’ to send the ticket to the queue (see picture below).
 
-
+![](https://raw.githubusercontent.com/src-its/ca-policies/master/RT_screenshot.png)
 
 
 **Be certain to ask the user if their computer is password protected.** If it is, record the username and password on a Post-It note and place the note on the keyboard of the computer (assuming it is a laptop) or otherwise in an inconspicuous place. *Do not input this information on RT.* 
